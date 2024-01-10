@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250822323137",
+    "project_id": "clone-ea41c",
+    "storage_bucket": "clone-ea41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250822323137:android:a8e431f3d6378d3c871d40",
+        "android_client_info": {
+          "package_name": "com.Alaa.amazon_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgk7FjKLKM1Xi28H5r-YwoT-Y64RqcPrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
