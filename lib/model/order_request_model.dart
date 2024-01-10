@@ -1,7 +1,6 @@
 class OrderRequestModel {
   final String orderName;
   final String buyersAddress;
-
   OrderRequestModel({
     required this.orderName,
     required this.buyersAddress,
